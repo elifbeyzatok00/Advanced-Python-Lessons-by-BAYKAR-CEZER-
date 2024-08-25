@@ -1,2 +1,1 @@
-# Advanced-Python-Lessons-by-BAYKAR-CEZER-
-Advanced Python Lessons by BAYKAR-CEZERİ
+# Advanced Python Lessons by BAYKAR-CEZERİ
